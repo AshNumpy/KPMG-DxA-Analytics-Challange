@@ -1,4 +1,4 @@
-<h1 align"center">KPMG Data and Analytics Challenge 2023 Raporu</h1>
+<h2 align="Center">KPMG Data and Analytics Challenge 2023 Raporu</h2>
 
 Bu repo, KPMG Data and Analytics Challenge 2023 yarışmasında yarı finalde elde ettiğim sonuçları içermektedir.
 
