@@ -1,4 +1,4 @@
-# KPMG Data and Analytics Challenge 2023 Yarı Final Projesi
+<h1 align"center">KPMG Data and Analytics Challenge 2023 Raporu</h1>
 
 Bu repo, KPMG Data and Analytics Challenge 2023 yarışmasında yarı finalde elde ettiğim sonuçları içermektedir.
 
